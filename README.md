@@ -3,7 +3,7 @@
   <h1 align="center">Oi, eu sou Thaís 👋</h1>
 </div>
 
-<h4 align="center"> Sou Estatística e Cientista de dados</h4>
+<h3 align="center"> Sou Estatística e Cientista de dados</h3>
  
  
  <h3>🙋‍♀️ Sobre mim</h3>
