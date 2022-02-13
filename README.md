@@ -24,7 +24,7 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Thais-Rs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thais-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Thais-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Thais-GC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Thais-BI" height="30" width="40" src="https://user-images.githubusercontent.com/80979270/153772846-b8ea81e4-ab01-44d9-b7e7-fd05d8b55d85.png">
 
